@@ -1,5 +1,5 @@
 # AI/GenAI Delivery Role — Progress Tracker
-Started: ____________  |  Target completion: ____________
+Started: 07/07/2026  |  Target completion: ____________
 
 Tip: open this in VS Code / Obsidian / any markdown editor — the `- [ ]` boxes are clickable checkboxes. Commit this file to your portfolio repo and update it weekly.
 
