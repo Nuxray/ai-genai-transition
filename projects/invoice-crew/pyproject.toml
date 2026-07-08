@@ -1,0 +1,17 @@
+[project]
+name = "invoice-crew"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Nuxray",email = "sagarchanne8@gmail.com"}
+]
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "crewai (>=1.15.2,<2.0.0)",
+    "crewai-tools (>=1.15.2,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
