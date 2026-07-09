@@ -8,9 +8,9 @@ Tip: open this in VS Code / Obsidian / any markdown editor — the `- [ ]` boxes
 ## Week 1 — LLM & Prompt Engineering Foundations
 - [x] Anthropic Prompt Engineering docs (read + try examples)
 - [In-progress] DeepLearning.AI "ChatGPT Prompt Engineering for Developers"
-- [ ] DeepLearning.AI "LangChain for LLM Application Development"
-- [ ] Understand: tokens, context window, temperature, system vs user prompts
-- [ ] Understand: few-shot prompting, structured/JSON output, function/tool calling
+- [In-progress] DeepLearning.AI "LangChain for LLM Application Development"
+- [In-progress] Understand: tokens, context window, temperature, system vs user prompts
+- [In-progress] Understand: few-shot prompting, structured/JSON output, function/tool calling
 - [ ] **Deliverable:** Create GitHub repo `llm-prompt-patterns`
 - [ ] Add 10–15 reusable prompt templates (invoice extraction, PII redaction, ticket classification, HR Q&A)
 - [ ] Push repo + write README
