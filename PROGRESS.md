@@ -6,8 +6,8 @@ Tip: open this in VS Code / Obsidian / any markdown editor — the `- [ ]` boxes
 ---
 
 ## Week 1 — LLM & Prompt Engineering Foundations
-- [ ] Anthropic Prompt Engineering docs (read + try examples)
-- [ ] DeepLearning.AI "ChatGPT Prompt Engineering for Developers"
+- [x] Anthropic Prompt Engineering docs (read + try examples)
+- [In-progress] DeepLearning.AI "ChatGPT Prompt Engineering for Developers"
 - [ ] DeepLearning.AI "LangChain for LLM Application Development"
 - [ ] Understand: tokens, context window, temperature, system vs user prompts
 - [ ] Understand: few-shot prompting, structured/JSON output, function/tool calling
@@ -31,7 +31,7 @@ Tip: open this in VS Code / Obsidian / any markdown editor — the `- [ ]` boxes
 ---
 
 ## Week 3–4 — Agentic Systems with CrewAI
-- [ ] DeepLearning.AI "Design, Develop, and Deploy Multi-Agent Systems with CrewAI" (earn certificate)
+- [EnvironmentReady] DeepLearning.AI "Design, Develop, and Deploy Multi-Agent Systems with CrewAI" (earn certificate)
 - [ ] DeepLearning.AI "Practical Multi AI Agents and Advanced Use Cases with crewAI"
 - [ ] Understand: agents, tasks, crews, memory, tools, guardrails, Flows
 - [ ] Understand: observability/traces, LLM-as-a-Judge evaluation
