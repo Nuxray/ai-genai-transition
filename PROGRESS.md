@@ -1,3 +1,6 @@
+
+
+3
 # AI/GenAI Delivery Role — Progress Tracker
 Started: 07/07/2026  |  Target completion: ____________
 
