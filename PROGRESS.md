@@ -21,15 +21,15 @@ Tip: open this in VS Code / Obsidian / any markdown editor — the `- [ ]` boxes
 ---
 
 ## Week 2 — RAG (Retrieval-Augmented Generation)
-- [ ] DeepLearning.AI "LangChain: Chat with Your Data"
-- [ ] Understand: embeddings, vector DBs, chunking strategies, retrieval evaluation
-- [ ] Set up ChromaDB or FAISS locally
-- [ ] **Deliverable — Project 1: HR Policy & Payroll Query Assistant**
-  - [ ] Gather/anonymize sample HR policy docs
-  - [ ] Build chunk → embed → store pipeline
-  - [ ] Build retrieval + LLM answer with citations
-  - [ ] Add PII/role-access guardrail agent
-  - [ ] Push to GitHub with README + demo GIF
+- [x] DeepLearning.AI "LangChain: Chat with Your Data"
+- [x] Understand: embeddings, vector DBs, chunking strategies, retrieval evaluation
+- [x] Set up ChromaDB or FAISS locally
+- [x] **Deliverable — Project 1: HR Policy & Payroll Query Assistant**
+  - [x] Gather/anonymize sample HR policy docs
+  - [x] Build chunk → embed → store pipeline
+  - [x] Build retrieval + LLM answer with citations
+  - [x] Add PII/role-access guardrail agent
+  - [x] Push to GitHub with README + demo GIF
 
 ---
 
@@ -99,6 +99,12 @@ Tip: open this in VS Code / Obsidian / any markdown editor — the `- [ ]` boxes
 ## Notes / Adjustments Log
 _(use this space to note what worked, what to swap, manager feedback, etc.)_
 
--
--
+- Week 1: Delivered 3 fully-tested prompt patterns (PII redaction, invoice 
+  extraction+validation, HR policy Q&A) instead of the originally planned 10-15 
+  shallow templates. Prioritized depth (documented v1→v2 iteration, real failure 
+  modes found) over breadth. Key finding across all three: models can produce 
+  outputs that *look* correct/grounded on the surface while subtly violating 
+  instructions (e.g. HR Q&A synthesizing unrelated sections) — worth watching 
+  for in Week 2's RAG pipeline too.
+- Week 2, Day 2: Completed "Chat with Your Data" course + conceptual understanding of chunking strategies, embeddings, vector DBs, retrieval evaluation. Next: hands-on ChromaDB setup, then start Project 1 (HR Policy RAG Assistant).
 -
