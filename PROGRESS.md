@@ -53,7 +53,7 @@ work, skim and check it off rather than doing it start to finish.*
 *Rebuilt from your old Week 3-4. Split into three progressive weeks (3, 4, 5) since
 the topic list is now much deeper than the original plan.*
 
-- [Progress Bar] What Is CrewAI? Introduction
+- ![Progress Bar](https://vercel.app) What Is CrewAI? Introduction
 - [ ] Version awareness: changelog & upgrading (CrewAI moves fast — check current
   version against what tutorials assume)
 - [ ] CrewAI installation (via `uv`)
